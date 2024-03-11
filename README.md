@@ -1,0 +1,1 @@
+[![Check Spelling](https://github.com/garzarobm-archived/test-spelling/actions/workflows/spelling.yml/badge.svg?branch=main)](https://github.com/garzarobm-archived/test-spelling/actions/workflows/spelling.yml)
